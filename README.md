@@ -147,3 +147,76 @@
 - [22 Celebrity Memoirs About Stars Who Survived Childhood Trauma](https://www.okaynowbreathe.com/celebrity-memoirs-about-childhood-trauma/)
 - [9 Memoirs About Recovering from Trauma | Book Riot](https://bookriot.com/memoirs-about-trauma/)
 ```
+
+movie
+```
+### Key Points
+- 研究表明，有许多电影和电视剧探讨童年情感忽视主题，效果因作品而异。
+- 常见的例子包括《玛蒂尔达》（Matilda）、《伯德小姐》（Lady Bird）和《实习医生格蕾》（Grey's Anatomy）。
+
+#### 电影和电视剧示例
+以下是一些以童年情感忽视为主题的电影和电视剧：
+- **《玛蒂尔达》**：描绘了一个被父母忽视的女孩，通过想象力和学校找到慰藉。
+- **《伯德小姐》**：探索主角与其母亲之间情感忽视的关系。
+- **《实习医生格蕾》**：主角梅雷迪斯·格雷的背景包括母亲的情感忽视。
+- **《好地方》**：通过埃莉诺与其父母的关系触及情感忽视主题。
+- **《普通人》**：深入探讨家庭内的情感忽视影响。
+- **《冰雪奇缘》**：可被解读为探讨艾莎与其父母的情感忽视。
+- **《我们这一家》**：展示不同角色的情感忽视经历。
+- **《欧泊》**（短片）：捕捉童年情感忽视导致的焦虑和社会挣扎。
+- **《安静的女孩》**：聚焦一个被忽视的女孩被送到亲戚家，强调情感疏远和忽视。
+
+这些作品为童年情感忽视的经历和影响提供了洞见，反映了现实生活中的挣扎和疗愈之路。
+
+---
+
+### 详细报告
+
+童年情感忽视（Childhood Emotional Neglect, CEN）是指父母在儿童时期未能充分回应孩子的情感需求，可能导致成年后低自尊、信任问题和情感表达困难。许多电影和电视剧通过叙事探索这一主题，分享个人经历及其对成年后的影响。本报告将详细列举相关作品，并分析其在描绘童年情感忽视方面的作用。
+
+#### 定义与背景
+- **童年情感忽视**：根据[Recommended Reading and Resources for Emotional Neglect]([invalid url, do not cite])，指父母未能足够关注孩子的情感需求，可能导致成年后情感识别和表达困难。
+- 电影和电视剧作为视觉媒介，能够通过角色互动和故事情节直观展示情感忽视的影响，吸引观众共鸣并引发讨论。
+
+#### 以童年情感忽视为主题的电影和电视剧
+以下是一些以童年情感忽视为主题的电影和电视剧，基于在线社区和文章的推荐：
+
+| **媒体类型** | **标题**                     | **详情**                                                                 |
+|--------------|-----------------------------|-------------------------------------------------------------------------|
+| 电影         | 《玛蒂尔达》（Matilda）      | 描绘一个被父母忽视的女孩，通过想象力和学校找到慰藉，基于罗尔德·达尔的小说。 |
+| 电影         | 《伯德小姐》（Lady Bird）    | 探索主角与其母亲之间情感忽视的关系，关键场景中主角询问母亲是否喜欢她，母亲无法回答。 |
+| 电视剧       | 《实习医生格蕾》（Grey's Anatomy） | 梅雷迪斯·格雷的背景包括母亲的情感忽视，影响其成年后的关系和职业。 |
+| 电视剧       | 《好地方》（The Good Place） | 通过埃莉诺与其父母的关系触及情感忽视主题，展示父母偏爱和忽视的影响。 |
+| 电影         | 《普通人》（Ordinary People）| 深入探讨家庭内的情感忽视影响，聚焦家庭成员之间的情感疏远。 |
+| 电影         | 《冰雪奇缘》（Frozen）       | 可被解读为探讨艾莎与其父母的情感忽视，尤其在父母试图保护她时疏远她。 |
+| 电视剧       | 《我们这一家》（This Is Us） | 展示不同角色的情感忽视经历，涉及多个家庭成员的童年背景。 |
+| 短片         | 《欧泊》（Opal）             | 一部12分钟的动画短片，捕捉童年情感忽视导致的焦虑、社会挣扎和情感伤害。 |
+| 电影         | 《安静的女孩》（The Quiet Girl） | 聚焦一个被忽视的女孩被送到亲戚家，强调情感疏远和忽视，探讨孤立和家庭功能失调的影响。 |
+
+这些作品涵盖了不同类型和风格，从儿童电影到成人剧情剧，提供了多样化的视角来探讨童年情感忽视。
+
+#### 写作与视觉叙事的潜在作用
+研究表明，视觉叙事如电影和电视剧可以帮助观众通过角色体验理解情感忽视的影响（[Narrative, Memory and PTSD: A Case Study of Autobiographical Narration After Trauma]([invalid url, do not cite])）。例如，《玛蒂尔达》通过夸张的角色刻画捕捉儿童脆弱的世界，而《安静的女孩》则通过细腻的情感描写传递希望和疗愈的信息。
+
+#### 实践建议与资源
+对于希望通过观看电影和电视剧探索情感忽视的个体，以下是一些实践建议：
+- **选择相关作品**：从上述列表中选择与个人经历相关的电影或电视剧，如《伯德小姐》探讨母女关系。
+- **结合讨论**：与朋友或治疗师讨论观后感，分享共鸣和洞见。
+- **参考相关文章**：如[The Animated Film About Childhood Neglect That Will Get Under Your Skin](https://burn-book.medium.com/the-animated-film-about-childhood-neglect-that-will-get-under-your-skin-20b73e7765db)提供对《欧泊》的深入分析。
+
+#### 局限性与争议
+尽管这些作品提供了洞见，但效果因人而异。一些观众可能因触发强烈情感而感到不适，因此建议在专业指导下观看。此外，情感忽视的定义和影响在不同文化和背景下可能有所不同，这需要进一步研究。
+
+#### 总结
+电影和电视剧通过角色和情节为童年情感忽视提供了丰富的描绘，从《玛蒂尔达》的儿童视角到《安静的女孩》的情感疏远，涵盖了多种表现形式。这些作品不仅反映了现实生活中的挣扎，也为观众提供了理解和疗愈的机会。
+
+---
+
+### Key Citations
+- [Recommended Reading and Resources for Emotional Neglect]([invalid url, do not cite])
+- [Narrative, Memory and PTSD: A Case Study of Autobiographical Narration After Trauma]([invalid url, do not cite])
+- [Shows/movies with themes of emotional neglect and/or healthy parental relationships](https://www.reddit.com/r/emotionalneglect/comments/ovgh5u/showsmovies_with_themes_of_emotional_neglect/)
+- [Emotional neglect shown in TV or film? Or books?](https://www.reddit.com/r/emotionalneglect/comments/sor5re/emotional_neglect_shown_in_tv_or_film_or_books/)
+- [The Animated Film About Childhood Neglect That Will Get Under Your Skin](https://burn-book.medium.com/the-animated-film-about-childhood-neglect-that-will-get-under-your-skin-20b73e7765db)
+```
+
