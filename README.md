@@ -1,3 +1,5 @@
+it is all about of break the long chains across my soul  and live a new life
+
 ```
 ### Key Points
 - 研究表明，自传和创伤叙事可能有助于处理情感忽视，但效果因人而异。
